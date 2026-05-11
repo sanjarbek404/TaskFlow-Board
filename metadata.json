@@ -1,0 +1,6 @@
+{
+  "name": "TaskFlow Board",
+  "description": "A drag-and-drop task management board using dnd-kit and Context API.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
