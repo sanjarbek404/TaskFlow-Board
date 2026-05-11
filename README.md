@@ -5,7 +5,7 @@
     A modern, highly interactive drag-and-drop task management board built with React, dnd-kit, and Tailwind CSS.
   </p>
   <p>
-    <b><a href="#live-demo-link--here">Live Demo</a></b>
+    <b><a href="https://sanjarbek404.github.io/TaskFlow-Board/">Live Demo</a></b>
   </p>
 </div>
 
